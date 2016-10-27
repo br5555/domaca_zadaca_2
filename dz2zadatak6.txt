@@ -1,0 +1,16 @@
+5,0037148 sec
+dretva 9
+sve na dretvi 9
+
+a: dretva 8
+b: dretva 9
+c: dretva 10
+d: dretva 11
+e: dretva 12
+1,3683687sec
+
+Parallel calls finished 0ms
+sync operatio calls 0,0059ms
+
+1. 98
+2.97
